@@ -1,4 +1,4 @@
-// awesome.js
+// p_blog.js
 
 // patch for lower-version IE:
 
